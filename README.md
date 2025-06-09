@@ -5,5 +5,5 @@ This notebook uses a dataset of audio recordings of recitations of the Quran to 
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.jpeg)
 
