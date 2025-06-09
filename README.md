@@ -12,5 +12,5 @@ od.download('http://www.kaggle.com/datasets/mohammedalrajeh/quran-recitations-fo
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.jpeg)
+![Confusion Matrix](visualizations/confusion_matrix.jpeg)
 
