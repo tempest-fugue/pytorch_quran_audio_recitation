@@ -9,7 +9,8 @@ import opendatasets as od
 od.download('http://www.kaggle.com/datasets/mohammedalrajeh/quran-recitations-for-audio-classification', force=False)
 ```
 
-
+## Plots for Model
+![Output Plots](visualizations/output_plots.jpeg)
 ### Confusion Matrix
 
 ![Confusion Matrix](visualizations/confusion_matrix.jpeg)
