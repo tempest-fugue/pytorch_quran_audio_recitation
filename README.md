@@ -9,7 +9,7 @@ import opendatasets as od
 od.download('http://www.kaggle.com/datasets/mohammedalrajeh/quran-recitations-for-audio-classification', force=False)
 ```
 
-Quick Start:
+## Quick Start:
 ### 1. Clone the repository: 
 ```
 git clone https://github.com/tempest-fugue/pytorch_quran_audio_recitation.git
