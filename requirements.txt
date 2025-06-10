@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+librosa
+matplotlib
+seaborn
+numpy
+pandas
+scikit-learn
+opendatasets
+plotly
+scikit-image
