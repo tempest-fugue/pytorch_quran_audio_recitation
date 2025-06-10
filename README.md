@@ -10,18 +10,18 @@ od.download('http://www.kaggle.com/datasets/mohammedalrajeh/quran-recitations-fo
 ```
 
 Quick Start:
-1. Clone the repository:
+### 1. Clone the repository: 
 ```
-git clone [https://github.com/your-username/quran-audio-classifier.git](https://github.com/tempest-fugue/pytorch_quran_audio_recitation.git)
-cd quran-audio-classifier
+git clone https://github.com/tempest-fugue/pytorch_quran_audio_recitation.git
+cd pytorch_quran_audio_recitation
 ```
-2. Install dependencies:
+### 2. Install dependencies: 
 ```
 pip install -r requirements.txt
 ```
-3. Launch the notebook:
+### 3. Launch the notebook:
 ```
-jupyter notebook pytorch_quran_audio_recitation.ipynb
+jupyter notebook audio_classification_of_quran_recitations.ipynb
 ```
 ### Confusion Matrix for Final Model on Test Set
 
