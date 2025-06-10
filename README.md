@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 jupyter notebook audio_classification_of_quran_recitations.ipynb
 ```
-### Confusion Matrix for Final Model on Test Set
+## Confusion Matrix for Final Model on Test Set
 
 ![Confusion Matrix](visualizations/confusion_matrix.jpeg)
 
