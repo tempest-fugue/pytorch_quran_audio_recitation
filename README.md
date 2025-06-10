@@ -9,9 +9,25 @@ import opendatasets as od
 od.download('http://www.kaggle.com/datasets/mohammedalrajeh/quran-recitations-for-audio-classification', force=False)
 ```
 
-## Plots for Model
-![Output Plots](visualizations/output_plots.jpeg)
-### Confusion Matrix
+Quick Start:
+- Clone the repository:
+'''
+git clone https://github.com/your-username/quran-audio-classifier.git
+cd quran-audio-classifier
+'''
+- Install dependencies:
+'''
+pip install -r requirements.txt
+'''
+
+- Launch the notebook:
+'''
+jupyter notebook Quran_Audio_Classifier.ipynb
+'''
+### Confusion Matrix for Final Model on Test Set
 
 ![Confusion Matrix](visualizations/confusion_matrix.jpeg)
 
+
+## Plots for Model
+![Output Plots](visualizations/output_plots.jpeg)
